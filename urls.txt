@@ -1,1 +1,135 @@
+T1 W1
 https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_GUI1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_1.jpg
+
+T1 W2
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_RES1.jpg
+
+T1 W3
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_6.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_RES1.jpg
+
+T1 W4
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_RES2.jpg
+
+T1 W5
+https://youtu.be/9AqLLjJSqVs
+
+T1 W6
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_7.jpg
+
+T1 W7
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/Yared_SUCCESS.png
+
+T1 W8
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_8.jpg
+
+T1 W9
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_3.jpg
+
+T1 W10
+https://youtu.be/tNCaSIJjcdo
+
+***************************************************************************************************
+T2 W1
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_GUI1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_1.jpg
+
+T2 W2
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_RES1.jpg
+
+T2 W3
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_RES1.jpg
+
+T2 W4
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_RES2.jpg
+
+T2 W5
+https://youtu.be/i0MWpdQ-rtg
+
+T2 W6
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_3.jpg
+
+T2 W7
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_5.jpg
+
+T2 W8
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_2.jpg
+
+T2 W9
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_RES3.jpg
+
+T2 W10
+https://youtu.be/j3bW2wbx3LY
+
+***************************************************************************************************
+T3 W1
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_GUI1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_1.jpg
+
+T3 W2
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_RES1.jpg
+
+T3 W3
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_6.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_RES1.jpg
+
+T3 W4
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_ENA_RM_RES3.jpg
+
+T3 W5
+https://www.youtube.com/watch?v=i0MWpdQ-rtg
+
+T3 W6
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_7.jpg
+
+T3 W7
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_RM_5.jpg
+
+T3 W8
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_MT_8.jpg
+
+T3 W9
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_ENA_RM_RES2.jpg
+
+T3 W10
+https://www.youtube.com/watch?v=tNCaSIJjcdo
+
+***************************************************************************************************
+T4 W1
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_GUI1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_1.jpg
+
+T4 W2
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_RES1.jpg
+
+T4 W3
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_1.jpg
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_RES1.jpg
+
+T4 W4
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_RES2.jpg
+
+T4 W5
+https://www.youtube.com/watch?v=9AqLLjJSqVs
+
+T4 W6
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_3.jpg
+
+T4 W7
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/Yared_SUCCESS.png
+
+T4 W8
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/ENA_MON_MT_2.jpg
+
+T4 W9
+https://raw.githubusercontent.com/harryjdienes/emi_images/main/MON_ENA_RM_3.jpg
+
+T4 W10
+https://youtu.be/j3bW2wbx3LY
+
